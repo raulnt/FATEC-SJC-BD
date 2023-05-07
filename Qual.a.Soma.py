@@ -2,7 +2,7 @@
 
 import random
 
-# O Computador ira geral dois números em um intevalo de 0 a 10:
+# O Computador ira gerar dois números em um intevalo de 0 a 8:
 num1 = random.randint(1, 8)
 num2 = random.randint(1, 8)
 
