@@ -6,7 +6,7 @@ import random
 num1 = random.randint(1, 8)
 num2 = random.randint(1, 8)
 
-# Hora da Soma, pergunte ao úsuario o valor da SOMA:
+# Hora da Soma, pergunte ao usuário o valor da SOMA:
 soma = int(input("Qual o valor da soma de {} e {} : ".format(num1, num2)))
 
 # Verificando o resultado
