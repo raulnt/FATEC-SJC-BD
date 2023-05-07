@@ -41,8 +41,9 @@ elif jogada_jogador == "tesoura":
         print("Desenvolvido por Raul José Batista Neto // FATEC SJC // Banco de Dados // 1° Semestre no ano de 2023")
 
         # Em relação a Matemática Discreta, podemos visualizar em um simples jogo de Jo-Ken-Po. 
-        # Relações Binárias a partir do possíveis resultados:
+        # Relações Binárias distintas a partir do possíveis resultados:
         # Conjuto = (Pedra, Papel e Tesoura)
         # (Pedra, Papel); (Pedra, Tesoura); (Pedra, Pedra)
         # (Papel, Papel); (Papel, Tesoura); (Papel, Pedra)
         # (Tesoura, Papel); (Tesoura, Tesoura); (Tesoura, Pedra)
+
