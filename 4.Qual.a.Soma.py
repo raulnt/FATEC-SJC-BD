@@ -17,7 +17,7 @@ else:
     print("QUE PENA, você errou.Tente novamente!")
     print("Desenvolvido por Raul José Batista Neto // FATEC SJC // Banco de Dados // 1° Semestre no ano de 2023")
 
-# Em relação a Matemática Discreta, podemos visualizar em um simples jogo de Qual a SOMA?. 
+# Em relação a Matemática Discreta, podemos visualizar em um simples jogo de Qual a SOMA. 
 # Relações Binárias distintas em ralação aos números gerados a serem somados:
 # Conjunto = (1, 2, 3, 4, 5, 6, 7, 8)
 # (1,1); (1,2); (1,3); (1,4); (1,5); (1,6); (1,7); (1,8);
