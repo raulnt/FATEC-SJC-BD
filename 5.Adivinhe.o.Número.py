@@ -25,8 +25,16 @@ def numero():
 numero()
 
 # Em relação a Matemática Discreta, podemos visualizar em um simples jogo de Advinhe o Número. 
-# Os possíveis conjuntos de números usados para acertar o número:
-# (1); (2); (3); (4); (5);
-# (1,2); (1,3); (1,4); (1,5); (2,3); (2,4); (2,5); (3,4); (3,5); (4,5);
-# (1,2,3); (1,2,4); (1,2,5); (2,3,4); (2,3,5); (3,4,5); 
-# (1,2,3,4,5); 
+# Os possíveis conjuntos de palpites para acertar o número:
+# Acertando em 1 tentativa, os conjuntos possíveis seriam:
+# (1); (2); (3);
+# Acertando em 2 tentativas, os conjuntos possíveis seriam:
+# (1,2); (1,3); 
+# (2,1); (2,3);
+# (3,1); (3,2);
+# Acertando em 3 tentativas, os conjuntos possíveis seriam:
+# (1,2,3); (1,3,2);
+# (2,3,1); (2,1,3);
+# (3,2,1); (3,1,2);
+#Desenvolvido por Raul José Batista Neto // FATEC SJC // Banco de Dados // 1° Semestre no ano de 2023
+
