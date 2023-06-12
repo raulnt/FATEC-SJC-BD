@@ -1,3 +1,4 @@
+#Desenvolvido por Raul José Batista Neto // FATEC SJC // Banco de Dados // 1° Semestre no ano de 2023
 import random
 
 # Define o tamanho do tabuleiro
@@ -23,9 +24,16 @@ while True:
     # Verifica se o palpite acertou o navio
     if palpite_linha == navio_linha and palpite_coluna == navio_coluna:
         print("Parabéns, você acertou o navio!")
+        print("Desenvolvido por Raul José Batista Neto // FATEC SJC // Banco de Dados // 1° Semestre no ano de 2023")
+
         break
     else:
         print("Você errou o navio.")
         # Marca o palpite no tabuleiro
         tabuleiro[palpite_linha][palpite_coluna] = "X"
+
+    # Em relação a Matemática Discreta, podemos visualizar em um simples jogo de Batalha Naval. 
+    # A presença da matriz; 
+    # Matriz é uma maneira de representar dados dividindo-os em linhas e colunas.
+
 
