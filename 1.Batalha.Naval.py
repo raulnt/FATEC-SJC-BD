@@ -17,8 +17,8 @@ while True:
         print(" ".join(str(coluna) for coluna in linha))
     
     # Pede ao jogador para adivinhar a posição do navio
-    palpite_linha = int(input("Digite a linha do seu palpite (0-4): "))
-    palpite_coluna = int(input("Digite a coluna do seu palpite (0-4): "))
+    palpite_linha = int(input("Digite a LINHA do seu palpite (0-4): "))
+    palpite_coluna = int(input("Digite a COLUNA do seu palpite (0-4): "))
     
     # Verifica se o palpite acertou o navio
     if palpite_linha == navio_linha and palpite_coluna == navio_coluna:
